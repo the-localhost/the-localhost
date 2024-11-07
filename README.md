@@ -8,7 +8,7 @@ Engineering solutions, irrespective of the tech stack, is what I enjoy the most!
 
 * 🌍  I'm based in Bengaluru, Karnataka, IN.
 * 🧠  I'm learning big data tools like Spark and Kafka.
-* 🤝  I'm open to collaborating on any complex backend implementation or troubleshooting
+* 🤝  I'm open to collaborating on bringing an idea to reality. Hit me up on my socials.
 
 <a href="https://www.github.com/the-localhost" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/the-localhost?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
